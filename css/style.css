@@ -187,7 +187,8 @@ button{
         font-size: 17px;
     }
     .sub-container2 a{
-        font-size: 17px;
+        font-size: 14px;
+        text-decoration: none;
     }
     button{
         width: 80%;
